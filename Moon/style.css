@@ -4,9 +4,7 @@ body{
     overflow: hidden;
     justify-content: center;
     height: 100vh;
-    background-color: #000;
-    color:red;
-    
+    background-color: #000;   
 }
 .moon{
     background-color: black;
